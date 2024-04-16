@@ -1,0 +1,10 @@
+{
+    "Silverio":["Kathalin","Soltero"],
+    "Antony":["Hennys","Soltero"],
+    "Banner":["Nayra","Soltero"],
+    "Johanssel":["Evelin","Soltero"],
+    "Kathalin":["Silverio","Soltera"],
+    "Hennys":["Antony","Soltera"],
+    "Evelin":["Johanssel","Soltera"],
+    "Nayra":["Banner","Soltera"]
+}
